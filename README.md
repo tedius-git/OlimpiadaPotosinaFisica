@@ -1,6 +1,6 @@
-# Olimpiada Potosina de Física
+<img src="imagenes/oli.jpg" width="400">
 
-![Banner](imagenes/oli.jpg)
+# Olimpiada Potosina de Física
 
 La Olimpiada Potosina de Física es una iniciativa estudiantil dedicada a promover el interés por la física entre jóvenes del estado de San Luis Potosí, mediante competencias académicas de alto nivel.
 
@@ -10,7 +10,6 @@ La Olimpiada Potosina de Física es una iniciativa estudiantil dedicada a promov
 
 Somos una organización estudiantil potosina dedicada a la gestión y diseño de la Olimpiada Potosina de Física. Nuestro comité, integrado por alumnos universitarios, busca impulsar el talento científico joven y fortalecer la comunidad de física en nuestro estado a través de retos académicos exigentes y formativos.
 
----
 
 ## Convocatoria 2026
 
@@ -20,13 +19,11 @@ Somos una organización estudiantil potosina dedicada a la gestión y diseño de
 - **Registro:** [Formulario de registro](https://forms.gle/Jh9qiGiP3qfuQcAw)
 - **Fecha del examen:** 2 de mayo de 2026  
 
----
 
 ## ¿Qué es la olimpiada?
 
 Es una competencia académica dirigida a estudiantes con interés en la física, donde se enfrentan a problemas que requieren razonamiento, creatividad y una comprensión profunda de conceptos fundamentales.
 
----
 
 ## ¿Quién puede participar?
 
@@ -34,13 +31,11 @@ Es una competencia académica dirigida a estudiantes con interés en la física,
 - Escuelas públicas y privadas  
 - Interés en la física y resolución de problemas  
 
----
 
 ## Recursos de preparación
 
 - [Temario](recursos/Temario.pdf)  
 
----
 
 ## Organización
 
@@ -53,7 +48,6 @@ Este proyecto es organizado por estudiantes universitarios comprometidos con la 
 - Hugo Ángel Molina Rodríguez  
 - Emir Antonio Moctezuma Soto  
 
----
 
 ## Contacto
 
